@@ -139,7 +139,7 @@
     large metal lock.
 
     To return to the clearing, turn [back].
-
+  items: ["lionworts:frog", "lionworts:tadpole"]
   exits:
   - roomId: "lionworts:3"
     leaveMessage: "You return to the clearing"
